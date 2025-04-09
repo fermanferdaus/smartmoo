@@ -101,7 +101,7 @@
         <!-- Left side columns -->
         <div class="col-lg">
           <div class="row">
-            <div class="col-xxl-4 col-md-6">
+            <div class="col-xxl-4 col-xl-6">
               <div class="card info-card sales-card">
                 <div class="card-body">
                   <h5 class="card-title fw-bold">Suhu Oven</h5>
@@ -114,7 +114,7 @@
               </div>
             </div>
             
-            <div class="col-xxl-4 col-md-6">
+            <div class="col-xxl-4 col-xl-6">
               <div class="card info-card sales-card">
                 <div class="card-body">
                   <h5 class="card-title fw-bold">Nilai PPM</h5>
@@ -127,7 +127,7 @@
               </div>
             </div>
 
-            <div class="col-xxl-4 col-md-6">
+            <div class="col-xxl-4 col-xl-6">
               <div class="card info-card revenue-card">
                 <div class="card-body">
                   <h5 class="card-title fw-bold">Kondisi Asap</h5>
@@ -143,9 +143,9 @@
             <div class="col-xxl-4 col-xl-6">
               <div class="card info-card customers-card">
                 <div class="card-body">
-                  <h5 class="card-title fw-bold">Kondisi Motor</h5>
+                  <h5 class="card-title fw-bold">Kondisi Mesin</h5>
                   <div class="d-flex align-items-center">
-                    <div class="ps-3" id="motor">
+                    <div class="ps-3" id="mesin">
                       <h6>---</h6>
                     </div>
                   </div>
@@ -165,6 +165,49 @@
                 </div>
               </div>
             </div>
+
+            <div class="col-xxl-4 col-xl-6">
+              <div class="card info-card customers-card">
+                <div class="card-body">
+                  <h5 class="card-title fw-bold">Sisa Waktu Sangrai</h5>
+                  <div class="d-flex align-items-center">
+                    <div class="ps-3" id="waktu">
+                      <h6>---</h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Card: Masukkan Waktu Sangrai -->
+            <div class="col-xxl-4 col-xl-6">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title fw-bold">Masukkan Waktu Sangrai</h5>
+                  <form action="#" method="POST">
+                    <div class="mb-3">
+                      <label for="waktu" class="form-label">Waktu (menit)</label>
+                      <input type="number" class="form-control" id="waktu" name="waktu" placeholder="Masukkan waktu" min="1" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Kirim</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Card: Kontrol Proses Sangrai -->
+            <div class="col-xxl-4 col-xl-6">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title fw-bold">Kontrol Mesin</h5>
+                  <div class="d-flex gap-2">
+                    <button type="button" class="btn btn-success w-100">Start</button>
+                    <button type="button" class="btn btn-danger w-100">Stop</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
       </div>
     </section>
 
