@@ -10841,3 +10841,13 @@ textarea.form-control-lg {
 footer {
   border: none; /* Pastikan footer tidak ada border */
 }
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}

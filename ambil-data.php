@@ -1,26 +1,13 @@
 <?php
 include 'koneksi.php';
 
-$query = "SELECT tanggal, suhu, heart_rate, oksigen, baterai, status_koneksi FROM tb_data ORDER BY tanggal ASC";
-$result = $koneksi->query($query);
+// Ambil suhu terbaru
+$query = 'SELECT tanggal, suhu, heart_rate, oksigen, baterai, status_koneksi FROM tb_data  ORDER BY id DESC LIMIT 1';
+$result = mysqli_query($koneksi, $query);
+$data = mysqli_fetch_assoc($result);
 
-$data = [
-  'tanggal' => [],
-  'suhu' => [],
-  'heart_rate' => [],
-  'oksigen' => [],
-  'baterai' => [],
-  'status_koneksi' => []
-];
-
-while ($row = $result->fetch_assoc()) {
-  $data['tanggal'][] = $row['tanggal'];
-  $data['suhu'][] = (float)$row['suhu'];
-  $data['heart_rate'][] = (int)$row['heart_rate'];
-  $data['oksigen'][] = (int)$row['oksigen'];
-  $data['baterai'][] = (int)$row['baterai'];
-  $data['status_koneksi'][] = (float)$row['status_koneksi'];
-}
-
+// Kembalikan data dalam format JSON
 echo json_encode($data);
+
+mysqli_close($koneksi);
 ?>
