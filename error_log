@@ -1,0 +1,135 @@
+[27-Nov-2024 18:25:03 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:03 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[27-Nov-2024 18:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 12
+[29-Nov-2024 00:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[29-Nov-2024 00:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 13
+[29-Nov-2024 00:25:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[29-Nov-2024 00:25:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 13
+[29-Nov-2024 00:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[29-Nov-2024 00:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 13
+[29-Nov-2024 00:25:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/oemb3463/public_html/pakanayam.oemahservice.site/koneksi.php on line 8
+[29-Nov-2024 00:25:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 13
+[25-Dec-2024 05:21:06 Asia/Jakarta] PHP Warning:  Undefined array key "suhu" in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 5
+[25-Dec-2024 05:21:06 Asia/Jakarta] PHP Warning:  Undefined array key "berat" in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 6
+[25-Dec-2024 05:21:06 Asia/Jakarta] PHP Warning:  Undefined array key "status_pakan" in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 7
+[25-Dec-2024 05:21:06 Asia/Jakarta] PHP Warning:  Undefined array key "status_lampu" in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 8
+[25-Dec-2024 05:21:06 Asia/Jakarta] PHP Warning:  Undefined array key "status_kipas" in /home/oemb3463/public_html/pakanayam.oemahservice.site/post_data.php on line 9
