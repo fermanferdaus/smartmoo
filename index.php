@@ -125,7 +125,7 @@
 
         <!-- Footer-->
         <footer class="py-3 bg-info">
-            <div class="container px-5"><p class="m-0 text-center text-white">Copyright &copy; 2024</p></div>
+            <div class="container px-5"><p class="m-0 text-center text-white">Copyright &copy; 2025 by SmartMoo. All rights reserved.</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
