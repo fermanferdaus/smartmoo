@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+}
+
+.left-panel {
+  background-color: var(--bs-info);
+  color: white;
+}
+
+.left-panel h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.left-panel p {
+  font-size: 1.1rem;
+  max-width: 400px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: var(--bs-info);
+}
+
+.btn-info {
+  background-color: var(--bs-info);
+  border: none;
+}
+
+.input-group-text {
+  cursor: pointer;
+}

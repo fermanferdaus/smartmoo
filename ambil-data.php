@@ -1,13 +1,18 @@
 <?php
 include 'koneksi.php';
 
-// Ambil suhu terbaru
-$query = 'SELECT tanggal, suhu, heart_rate, oksigen, baterai, status_koneksi FROM tb_data  ORDER BY id DESC LIMIT 1';
-$result = mysqli_query($koneksi, $query);
-$data = mysqli_fetch_assoc($result);
+$limit = isset($_GET['limit']) ? intval($_GET['limit']) : 1;
 
-// Kembalikan data dalam format JSON
-echo json_encode($data);
+$query = "SELECT tanggal, suhu, heart_rate, oksigen, baterai, status_koneksi FROM tb_data ORDER BY id DESC LIMIT $limit";
+$result = mysqli_query($koneksi, $query);
+
+$data = [];
+
+while ($row = mysqli_fetch_assoc($result)) {
+  $data[] = $row;
+}
+
+echo json_encode($limit === 1 ? $data[0] : $data);
 
 mysqli_close($koneksi);
 ?>

@@ -1,25 +1,27 @@
 <?php
 include 'koneksi.php';
-
 $dari = $_GET['dari'] ?? date('Y-m-d');
 $sampai = $_GET['sampai'] ?? date('Y-m-d');
 
-$query = "SELECT * FROM tb_data WHERE tanggal BETWEEN '$dari' AND '$sampai' ORDER BY tanggal ASC";
+$query = "SELECT tanggal, suhu, heart_rate, oksigen FROM tb_data WHERE tanggal BETWEEN '$dari' AND '$sampai' ORDER BY tanggal ASC";
+$result = mysqli_query($koneksi, $query);
 
-$result = $koneksi->query($query);
-$data = [
-  'tanggal' => [],
-  'suhu' => [],
-  'heart_rate' => [],
-  'oksigen' => []
-];
+$tanggal = [];
+$suhu = [];
+$heart_rate = [];
+$oksigen = [];
 
-while ($row = $result->fetch_assoc()) {
-  $data['tanggal'][] = $row['tanggal'];
-  $data['suhu'][] = (float)$row['suhu'];
-  $data['heart_rate'][] = (int)$row['heart_rate'];
-  $data['oksigen'][] = (float)$row['oksigen'];
+while ($row = mysqli_fetch_assoc($result)) {
+  $tanggal[] = $row['tanggal'];
+  $suhu[] = $row['suhu'];
+  $heart_rate[] = $row['heart_rate'];
+  $oksigen[] = $row['oksigen'];
 }
 
-echo json_encode($data);
+echo json_encode([
+  'tanggal' => $tanggal,
+  'suhu' => $suhu,
+  'heart_rate' => $heart_rate,
+  'oksigen' => $oksigen
+]);
 ?>

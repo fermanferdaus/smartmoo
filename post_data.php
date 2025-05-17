@@ -3,17 +3,15 @@ include 'koneksi.php';
 
 // Ambil data dari POST
 $temperature = $_POST['suhu'];
-$berat = $_POST['berat'];
-$status_pakan = $_POST['status_pakan'];
-$status_lampu = $_POST['status_lampu'];
-$status_kipas = $_POST['status_kipas'];
+$heart_rate = $_POST['heart_rate'];
+$oksigen = $_POST['oksigen'];
+$baterai = $_POST['baterai'];
+$wifi_strength = $_POST['wifi_strength'];
+
 
 // Update tabel data
-$sql_data = "UPDATE tb_data SET suhu='$temperature', berat='$berat', status_lampu='$status_lampu', status_kipas='$status_kipas' WHERE id=1";
+$sql_data = "INSERT tb_data SET suhu='$temperature', heart_rate='$heart_rate', oksigen='$oksigen', baterai='$baterai', status_koneksi='$wifi_strength'";
 $koneksi->query($sql_data);
-
-$sql_status = "UPDATE tb_data SET status_pakan='$status_pakan' WHERE id=1";
-$koneksi->query($sql_status);
 
 $koneksi->close();
 ?>
